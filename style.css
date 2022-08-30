@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {}
+
+.homepage {
+    background-color: #f1faee;
+    color: black;
+    text-align: center;
+}
+
+ul li {
+    font-size: larger;
+}
